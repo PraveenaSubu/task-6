@@ -11,9 +11,9 @@ var m1=new Movie("Casino Royale","Eon Productions","PG­13");
 
 // 2) class circle program
 class Circle{
-    constructor(radius,color){
+    constructor(radius,colour){
         this.radius=radius;
-        this.color=color;
+        this.colour=colour;
     }
 }
 getradius()
